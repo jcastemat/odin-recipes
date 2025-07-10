@@ -17,3 +17,28 @@ p {
 ul, ol {
   padding-left: 20px;
 }
+
+.list-index { font-size: 30px; line-height: 3;}
+
+
+.image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.container {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.ingredients, 
+.steps {
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+  padding: 16px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
